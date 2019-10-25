@@ -6,9 +6,9 @@ Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
 # Getting started
 
-`cd website`
+1. `cd website`
 
-`npm start`
+2. `npm start`
 
 Your browser will open to http://localhost:3000/
 
