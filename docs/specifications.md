@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: specifications
 title: Specification document for the Robomator project
 sidebar_label: Specification
 ---

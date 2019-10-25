@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Documentation": ["doc1"],
-    "Auto assign topic": ["doc2"],
-    "Auto moderation": ["doc3"]
+    "Documentation": ["specifications"],
+    "API": ["api"],
+    "Document 3": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
