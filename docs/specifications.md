@@ -1,6 +1,6 @@
 ---
 id: specifications
-title: Specification document for the Robomator project
+title: Specification document for the Topicify project
 sidebar_label: Specification
 ---
 
