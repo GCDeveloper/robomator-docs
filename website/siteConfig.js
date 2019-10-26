@@ -21,9 +21,9 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Topicify (name to be determined)', // Title for your website.
-  tagline: 'Documentation website for projects made by the javascript project facebook group.',
-  url: 'https://example.com', // Your website URL
+  title: 'Topicify', // Title for your website.
+  tagline: 'Documentation website for the Topicify project made by the javascript project facebook group.',
+  url: 'https://topicify-docs.now.sh/', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -38,10 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'specifications', label: 'Docs'},
-    {doc: 'api', label: 'API'},
+    {doc: 'overview', label: 'Docs'},
     {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
   ],
 
   // If you have users set above, you add it here:
@@ -73,7 +71,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: ``,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

@@ -1,5 +1,18 @@
 /* your custom css */
 
+footer a {
+    color: rgb(169, 211, 247);
+    text-decoration: underline;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+}
+footer a:hover {
+    color: rgb(199, 169, 247);
+    text-decoration: underline;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
